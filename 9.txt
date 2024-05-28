@@ -1,0 +1,10 @@
+rm -rf file name
+mk dir file creations
+rmdir file name
+chmod 465 file creation for permisions
+mv rename file and dir
+useradd;cat /etc/passwd
+usergroup;cat /etc/group
+cat>file name .txt
+head -n file name.txt
+tail -n file name.txt
